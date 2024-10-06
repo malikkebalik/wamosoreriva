@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wamosoreriva.pages.dev/sitemap.xml
